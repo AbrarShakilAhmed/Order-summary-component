@@ -39,6 +39,9 @@ main {
 .card-info h1 {
   padding-bottom: 20px;
 }
+.card-info p {
+  color: rgba(0, 0, 0, 0.596);
+}
 .plan-section {
   display: flex;
   align-items: center;
